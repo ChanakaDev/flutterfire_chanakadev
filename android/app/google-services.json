@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "979821750840",
+    "project_id": "flutterfire-chanakadev",
+    "storage_bucket": "flutterfire-chanakadev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979821750840:android:e74032d62c2eec849814cd",
+        "android_client_info": {
+          "package_name": "dev.chanaka.flutterfire_chanakadev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979821750840-v3tpovk27scvdbko5gjvr2bges4pdq0h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGqtZ1dg9nW3BoIa6jK6v36IVhmJzSQP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979821750840-v3tpovk27scvdbko5gjvr2bges4pdq0h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
